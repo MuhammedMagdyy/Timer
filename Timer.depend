@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630792020 source:c:\users\moham\desktop\timer\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<mmsystem.h>
+
